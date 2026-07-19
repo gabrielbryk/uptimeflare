@@ -25,13 +25,13 @@ export default function Header({ style }: { style?: React.CSSProperties }) {
   return (
     <header className={classes.header} style={style}>
       <Container size="md" className={classes.inner}>
-        <Link href="/" aria-label="Gabe's media server status home">
+        <Link href="/" aria-label="Gabe's service status home">
           <Image
             src={pageConfig.logo ?? '/logo.svg'}
             h={56}
             w={{ base: 180, sm: 240 }}
             fit="contain"
-            alt="Gabe's Media Status"
+            alt="Gabe's Service Status"
           />
         </Link>
 

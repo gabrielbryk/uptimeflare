@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 96" role="img" aria-labelledby="title desc">
-  <title id="title">Gabe's Media Status</title>
-  <desc id="desc">A green activity pulse beside the words Gabe's Media Status</desc>
+  <title id="title">Gabe's Service Status</title>
+  <desc id="desc">A green activity pulse beside the words Gabe's Service Status</desc>
   <path d="M8 50h38l13-28 21 56 18-42 12 14h34" fill="none" stroke="#18a558" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
-  <text x="166" y="42" font-family="system-ui, sans-serif" font-size="29" font-weight="700" fill="#18a558">Gabe's Media</text>
+  <text x="166" y="42" font-family="system-ui, sans-serif" font-size="29" font-weight="700" fill="#18a558">Gabe's Services</text>
   <text x="166" y="72" font-family="system-ui, sans-serif" font-size="24" font-weight="500" fill="#18a558">STATUS</text>
 </svg>
